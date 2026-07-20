@@ -1,2 +1,2 @@
-# /notice/
+# /notice
 notice
